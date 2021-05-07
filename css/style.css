@@ -74,6 +74,32 @@ body{
 .main__img{
     padding: 90px 0;
 }
+.project__title{
+    margin-bottom: 110px;
+    font-size: 41px;
+    color: #d07a2d;
+    font-weight: 700;
+}
+.gallery__title{
+    text-transform: uppercase;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    font-weight: 700;
+    color: #d07a2d;
+    font-size: 41px;
+}
+.gallery__text{
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+.gallery__inner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery__inner img{
+    display: block;
+    
+}
 .footer{
     text-align: center;
 }
