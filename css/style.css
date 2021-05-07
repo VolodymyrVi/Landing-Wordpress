@@ -5,6 +5,12 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
+.container{
+    max-width: 1030px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
 .header{
     height: 100vh;
     background-repeat: no-repeat;
@@ -50,4 +56,24 @@ body{
 }
 .header__sale{
     margin-top: 40px;
+}
+.main{
+    padding-top: 60px;
+    text-align: center;
+
+}
+.main__title{
+    font-size: 41px;
+    margin-bottom: 60px;
+    color: #d07a2d;
+}
+.main__text{
+    font-size: 30px;
+
+}
+.main__img{
+    padding: 90px 0;
+}
+.footer{
+    text-align: center;
 }
